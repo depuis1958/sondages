@@ -1,6 +1,6 @@
 # Depuis1958/sondages
 
-Centralisation des sondages d'intention de vote au élections Françaises.
+Sondages d'intention de vote au élections françaises.
 
 # Licence
 
