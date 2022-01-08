@@ -1,0 +1,120 @@
+k63f1.csv -- total polls: 2 -- total candidates: 16
+Anne Hidalgo
+Arnaud Montebourg
+Christiane Taubira
+Emmanuel Macron
+Fabien Roussel
+Florian Philippot
+François Asselineau
+Jean Lassalle
+Jean-Luc Mélenchon
+Marine Le Pen
+Nathalie Arthaud
+Nicolas Dupont-Aignan
+Philippe Poutou
+Valérie Pécresse
+Yannick Jadot
+Éric Zemmour
+
+k54ad.csv -- total polls: 3 -- total candidates: 13
+Anne Hidalgo
+Arnaud Montebourg
+Emmanuel Macron
+Fabien Roussel
+Jean Lassalle
+Jean-Luc Mélenchon
+Marine Le Pen
+Nathalie Arthaud
+Nicolas Dupont-Aignan
+Philippe Poutou
+Valérie Pécresse
+Yannick Jadot
+Éric Zemmour
+
+second-tour-macron-lepen.csv -- total polls: 6 -- total candidates: 2
+Emmanuel Macron
+Marine Le Pen
+
+second-tour-macron-pecresse.csv -- total polls: 6 -- total candidates: 2
+Emmanuel Macron
+Valérie Pécresse
+
+kb6f0.csv -- total polls: 2 -- total candidates: 14
+Anne Hidalgo
+Arnaud Montebourg
+Christiane Taubira
+Emmanuel Macron
+Fabien Roussel
+Jean Lassalle
+Jean-Luc Mélenchon
+Marine Le Pen
+Nathalie Arthaud
+Nicolas Dupont-Aignan
+Philippe Poutou
+Valérie Pécresse
+Yannick Jadot
+Éric Zemmour
+
+second-tour-macron-zemmour.csv -- total polls: 3 -- total candidates: 2
+Emmanuel Macron
+Éric Zemmour
+
+second-tour-lepen-pecresse.csv -- total polls: 1 -- total candidates: 2
+Marine Le Pen
+Valérie Pécresse
+
+second-tour-pecresse-zemmour.csv -- total polls: 1 -- total candidates: 2
+Valérie Pécresse
+Éric Zemmour
+
+k4361.csv -- total polls: 1 -- total candidates: 15
+Anne Hidalgo
+Arnaud Montebourg
+Emmanuel Macron
+Fabien Roussel
+Florian Philippot
+François Asselineau
+Jean Lassalle
+Jean-Luc Mélenchon
+Marine Le Pen
+Nathalie Arthaud
+Nicolas Dupont-Aignan
+Philippe Poutou
+Valérie Pécresse
+Yannick Jadot
+Éric Zemmour
+
+ka454.csv -- total polls: 1 -- total candidates: 16
+Anne Hidalgo
+Arnaud Montebourg
+Emmanuel Macron
+Fabien Roussel
+Florian Philippot
+François Asselineau
+Hélène Thouy
+Jean Lassalle
+Jean-Luc Mélenchon
+Marine Le Pen
+Nathalie Arthaud
+Nicolas Dupont-Aignan
+Philippe Poutou
+Valérie Pécresse
+Yannick Jadot
+Éric Zemmour
+
+k3478.csv -- total polls: 1 -- total candidates: 14
+Anne Hidalgo
+Arnaud Montebourg
+Emmanuel Macron
+Fabien Roussel
+François Asselineau
+Jean Lassalle
+Jean-Luc Mélenchon
+Marine Le Pen
+Nathalie Arthaud
+Nicolas Dupont-Aignan
+Philippe Poutou
+Valérie Pécresse
+Yannick Jadot
+Éric Zemmour
+
