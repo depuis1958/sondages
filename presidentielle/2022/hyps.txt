@@ -1,4 +1,4 @@
-k54ad.csv -- total polls: 7 -- total candidates: 13
+k54ad.csv -- total polls: 8 -- total candidates: 13
 Anne Hidalgo
 Arnaud Montebourg
 Emmanuel Macron
@@ -13,15 +13,15 @@ Valérie Pécresse
 Yannick Jadot
 Éric Zemmour
 
-second-tour-macron-pecresse.csv -- total polls: 11 -- total candidates: 2
+second-tour-macron-pecresse.csv -- total polls: 12 -- total candidates: 2
 Emmanuel Macron
 Valérie Pécresse
 
-second-tour-macron-lepen.csv -- total polls: 11 -- total candidates: 2
+second-tour-macron-lepen.csv -- total polls: 12 -- total candidates: 2
 Emmanuel Macron
 Marine Le Pen
 
-k63f1.csv -- total polls: 2 -- total candidates: 16
+k63f1.csv -- total polls: 3 -- total candidates: 16
 Anne Hidalgo
 Arnaud Montebourg
 Christiane Taubira
@@ -65,23 +65,6 @@ Valérie Pécresse
 
 second-tour-pecresse-zemmour.csv -- total polls: 1 -- total candidates: 2
 Valérie Pécresse
-Éric Zemmour
-
-k3393.csv -- total polls: 1 -- total candidates: 15
-Anne Hidalgo
-Arnaud Montebourg
-Christiane Taubira
-Emmanuel Macron
-Fabien Roussel
-Hélène Thouy
-Jean Lassalle
-Jean-Luc Mélenchon
-Marine Le Pen
-Nathalie Arthaud
-Nicolas Dupont-Aignan
-Philippe Poutou
-Valérie Pécresse
-Yannick Jadot
 Éric Zemmour
 
 k7bbb.csv -- total polls: 1 -- total candidates: 14
